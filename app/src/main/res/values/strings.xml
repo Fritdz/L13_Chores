@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Chores</string>
+    <string name="chore">Chore:</string>
+    <string name="enter_chore_here">Enter chore here</string>
+    <string name="details">Details:</string>
+    <string name="enter_details_here">Enter details here</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thur">Thur</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="importance">Importance</string>
+    <string name="view_list">View List</string>
+    <string name="submit">Submit</string>
+    <string-array name="spinnerItems">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
